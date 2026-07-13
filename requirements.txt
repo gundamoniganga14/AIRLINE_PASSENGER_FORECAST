@@ -1,1 +1,10 @@
 Python dependencies
+streamlit==1.35.0
+tensorflow==2.15.0
+scikit-learn==1.4.2
+pandas==2.2.2
+numpy==1.26.4
+plotly==5.22.0
+joblib==1.4.2
+matplotlib==3.9.0
+reportlab==4.2.0   # for PDF export
